@@ -68,7 +68,7 @@ def option_selection():
         while True:
             try:
                 user_choice = int(input("""
-========== TO-DO LIST ==========
+========== PASSWORD MANAGER ==========
 
 1. Add Passowrd
 2. View Passwords
